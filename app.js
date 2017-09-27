@@ -33,8 +33,7 @@ function reset() {
 
 function checkAnswer(row, column) {
   console.log(
-  answers[row-1][column-1];
-);
-};
+  answers[row-1][column-1]);
+}
 
 
