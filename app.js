@@ -26,4 +26,4 @@ function reset() {
 
 }
 
-$("#button1").click(function())
+
