@@ -32,8 +32,10 @@ function reset() {
 }
 
 function checkAnswer(row, column) {
-  console.log(
-  answers[row-1][column-1]);
+  if (answers[row-1][column-1]) {
+  console.log("Correct answer!");
+  } else {
+  console.log("Incorrect answer!");
 }
 
 
