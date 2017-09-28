@@ -37,5 +37,5 @@ function checkAnswer(row, column) {
   } else {
   console.log("Incorrect answer!");
 }
-
+}
 
